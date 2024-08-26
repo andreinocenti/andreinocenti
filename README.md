@@ -2,6 +2,8 @@
 
 I'm a developer since my 14 yº. In my developer life I've built many sites, apps and web systems. I'm also a Project Manager formed in 2012 at São Paulo's Senac in Project Manager MBA course.
 
+I'm co-founder of [manjei.com](https://manjei.com/), Manjei is the app for giving and receiving ratings and reviews on anything.
+
 I'm co-founder of [myClappy.com](https://myclappy.com/), a social network of Art. It was built for artists (of any kind), spectators and art producers in general.
 
 Since 2014 I've also joined the Ketchum Digital Brasil to create the DIPP System and do Web Solutions for internal and external projects. The DIPP system is used by 100 people daily to manage the Digital and Traditional media of theis clients.
